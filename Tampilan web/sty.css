@@ -6,7 +6,9 @@
     padding: 6px;
     color: white;
 }
-
+body{
+margin :0;
+}
 .header h1 {
     display: inline;
     align: left;
